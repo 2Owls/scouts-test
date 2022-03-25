@@ -5,4 +5,6 @@ description: Count me in!
 ---
 Owls are fluffy swoopy death bringers and are therefore the best non-extinct dinosaur.
 
+How many owls?
+
 ![](https://images.newscientist.com/wp-content/uploads/2021/10/29214043/PRI_207378542.jpg)
